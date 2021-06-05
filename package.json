@@ -1,0 +1,22 @@
+{
+    "name": "curso-jest",
+    "version": "1.0.0",
+    "description": "How to do unit testing with Jest",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Adri-Antanon/Learning-Jest.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Adri-Antanon/Learning-Jest/issues"
+    },
+    "homepage": "https://github.com/Adri-Antanon/Learning-Jest#readme",
+    "devDependencies": {
+        "jest": "^27.0.4"
+    }
+}
